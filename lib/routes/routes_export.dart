@@ -1,0 +1,11 @@
+export  'package:get/get.dart';
+export '../core/constant/routes/app_routes.dart';
+export '../modules/on_board/view/pages/on_board_page.dart';
+export 'package:coffe_shop/modules/main/binding/main_binding.dart';
+export 'package:coffe_shop/modules/main/view/pages/main_page.dart';
+export 'package:coffe_shop/modules/product_details/binding/product_details_binding.dart';
+export 'package:coffe_shop/modules/product_details/view/pages/product_details.dart';
+export '../modules/order/binding/order_controller_binding.dart';
+export '../modules/order/view/pages/orders_page.dart';
+export '../modules/delivery/binding/delivery_binding.dart';
+export '../modules/delivery/view/pages/delivery_page.dart';
